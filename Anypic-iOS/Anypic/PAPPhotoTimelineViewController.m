@@ -13,6 +13,8 @@
 #import "PAPUtility.h"
 #import "PAPLoadMoreCell.h"
 
+#pragma GCC diagnostic ignored "-Wundeclared-selector"
+
 @interface PAPPhotoTimelineViewController ()
 @property (nonatomic, assign) BOOL shouldReloadOnAppear;
 @property (nonatomic, strong) NSMutableSet *reusableSectionHeaderViews;

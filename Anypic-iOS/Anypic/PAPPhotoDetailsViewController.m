@@ -16,6 +16,8 @@
 #import "PAPUtility.h"
 #import "MBProgressHUD.h"
 
+#pragma GCC diagnostic ignored "-Wundeclared-selector"
+
 enum ActionSheetTags {
     MainActionSheetTag = 0,
     ConfirmDeleteActionSheetTag = 1

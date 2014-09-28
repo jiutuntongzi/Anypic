@@ -17,6 +17,9 @@
 #import "PAPFindFriendsViewController.h"
 #import "MBProgressHUD.h"
 
+
+#pragma GCC diagnostic ignored "-Wundeclared-selector"
+
 @interface PAPActivityFeedViewController ()
 
 @property (nonatomic, strong) PAPSettingsActionSheetDelegate *settingsActionSheetDelegate;
