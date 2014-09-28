@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>FacebookDisplayName</key>
+	<string>AnyPic</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +52,7 @@
 			<string>Icon@2x</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb231265150320768</string>
+				<string>fb408464955968960</string>
 			</array>
 		</dict>
 		<dict>
@@ -77,7 +79,7 @@
 	<key>CFBundleVersion</key>
 	<string>${APP_VERSION}</string>
 	<key>FacebookAppID</key>
-	<string>YOUR_FACEBOOK_APP_ID</string>
+	<string>408464955968960</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.photography</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -113,7 +115,7 @@
 				<key>Blue</key>
 				<real>0.117841511964798</real>
 				<key>Green</key>
-				<real>0.15368592739105219</real>
+				<real>0.1536859273910522</real>
 				<key>Red</key>
 				<real>0.2008436918258667</real>
 			</dict>
