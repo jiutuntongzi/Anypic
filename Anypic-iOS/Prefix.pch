@@ -17,5 +17,8 @@
     #import "PAPCache.h"
     #import "PAPConstants.h"
     #import "PAPUtility.h"
+    #import <FacebookSDK/FacebookSDK.h>
+    #import <ParseFacebookUtils/PFFacebookUtils.h>
+
 #endif
 
